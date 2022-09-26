@@ -1,5 +1,4 @@
-# 2022-Samsung-AI-Challenge-3D-Metrology
-
+![42](https://user-images.githubusercontent.com/86766081/192209474-ca5aa262-443d-4bee-819e-e03dac4274e8.png)
 
 
 # 배경
@@ -13,7 +12,7 @@
 전자현미경(SEM) 이미지로부터 깊이를 예측하는 AI 알고리즘 개발  
 → SEM 이미지를 사용하여 깊이를 알 수 있는 depthmap 생성
 
-# 평가
+# 설명
 Top-down으로 취득한 SEM 영상으로부터 깊이 (Depth, 깊을수록 작은 값)를 예측
 
 ![11](https://user-images.githubusercontent.com/86766081/192205323-bbbf738c-eae7-44a1-8d0f-cba5dc0d6eeb.png)
