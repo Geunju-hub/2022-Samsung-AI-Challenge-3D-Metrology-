@@ -15,3 +15,8 @@ Top-down으로 취득한 SEM 영상으로부터 깊이 (Depth, 깊을수록 작�
 
 ![11](https://user-images.githubusercontent.com/86766081/192205323-bbbf738c-eae7-44a1-8d0f-cba5dc0d6eeb.png)
 
+# 최종 성적
+10등으로 마무리
+
+# 팀 notion
+https://jolly-conga-4a8.notion.site/2022-Samsung-AI-Challenge-3D-Metrology-e21d26f5af7d4795b7fa32baadfe86fd
